@@ -1,0 +1,283 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"home",
+				"home_page"
+			],
+			[
+				"Post",
+				"PostAdmin"
+			],
+			[
+				"P",
+				"ProductListView"
+			],
+			[
+				"slug",
+				"slug"
+			],
+			[
+				"pro",
+				"product_pre_save_reciever"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"obect",
+				"object_id"
+			],
+			[
+				"object",
+				"object_id"
+			],
+			[
+				"detail",
+				"detail_view"
+			],
+			[
+				"Produc",
+				"ProductAdmin"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/ecommerce/views.py",
+			"settings":
+			{
+				"buffer_size": 124,
+				"line_ending": "Windows",
+				"name": "from django.http import HttpResponse"
+			}
+		},
+		{
+			"file": "src/ecommerce/urls.py",
+			"settings":
+			{
+				"buffer_size": 823,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Ezekiel/Desktop/Hallo-Cycle/main.py",
+		"/C/Users/Ezekiel/Desktop/DEV 1.9/1.9/1.9",
+		"/C/Users/Ezekiel/Desktop/DEV 1.9/.gitattributes",
+		"/C/Users/Ezekiel/Desktop/DEV 1.9/1.9/SRC",
+		"/C/Users/Ezekiel/Desktop/project6/src/posts/admin.py",
+		"/C/Users/Ezekiel/Desktop/project6/src/project6/settings.py",
+		"/C/Users/Ezekiel/Desktop/project6/src/posts/models.py",
+		"/C/Users/Ezekiel/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Ezekiel/Desktop/project5/alpha/123",
+		"/C/Users/Ezekiel/Desktop/project5/alpha/alpha/settings.py",
+		"/C/Users/Ezekiel/Desktop/project5/alpha/alpha/urls.py",
+		"/C/Users/Ezekiel/Desktop/ourbardraft/ourbarsrc/templates/products/product_list.html",
+		"/C/Users/Ezekiel/Desktop/ourbardraft/ourbarsrc/products/product_list.html",
+		"/C/Users/Ezekiel/Desktop/ourbardraft/ourbarsrc/templates/base.html",
+		"/C/Users/Ezekiel/Desktop/ourbardraft/ourbarsrc/templates/form.html",
+		"/C/Users/Ezekiel/Desktop/ourbardraft/ourbarsrc/templates/form_include.html",
+		"/C/Users/Ezekiel/Desktop/ourbardraft/ourbarsrc/templates/update_view.html",
+		"/C/Users/Ezekiel/Desktop/ourbardraft/ourbarsrc/templates/create_view.html",
+		"/C/Users/Ezekiel/Desktop/ourbardraft/ourbarsrc/db.sqlite3",
+		"/C/Users/Ezekiel/Desktop/ourbardraft/ourbarsrc/products/models.py",
+		"/C/Users/Ezekiel/Desktop/ourbardraft/ourbarsrc/templates/list_view.html",
+		"/C/Users/Ezekiel/Desktop/ourbardraft/ourbarsrc/templates/detail_view.html",
+		"/C/Users/Ezekiel/Desktop/ourbardraft/ourbarsrc/ourbardraft/settings.py",
+		"/C/Users/Ezekiel/Desktop/ourbardraft/ourbarsrc/products/forms.py",
+		"/C/Users/Ezekiel/Desktop/ourbardraft/ourbarsrc/products/admin.py",
+		"/C/Users/Ezekiel/Desktop/ourbardraft/ourbarsrc/products/views.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"resumes",
+			"ProductModelForm",
+			"object.",
+			"object",
+			"sale",
+			"list_display"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/ecommerce/views.py",
+					"settings":
+					{
+						"buffer_size": 124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								122,
+								122
+							]
+						],
+						"settings":
+						{
+							"auto_name": "from django.http import HttpResponse",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/ecommerce/urls.py",
+					"settings":
+					{
+						"buffer_size": 823,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								823,
+								823
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 220.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/Ezekiel/Desktop/project5/beta.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 161.0,
+	"status_bar_visible": true
+}

@@ -4,6 +4,74 @@
 		"selected_items":
 		[
 			[
+				"user",
+				"username"
+			],
+			[
+				"get",
+				"get_user_model"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"pass",
+				"password2"
+			],
+			[
+				"clean",
+				"cleaned_data"
+			],
+			[
+				"clea",
+				"cleaned_data"
+			],
+			[
+				"regis",
+				"register_page"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"is",
+				"is_authenticated"
+			],
+			[
+				"u",
+				"user"
+			],
+			[
+				"Lo",
+				"login"
+			],
+			[
+				"cont",
+				"context"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"Con",
+				"ContactForm"
+			],
+			[
+				"conta",
+				"contact_page"
+			],
+			[
 				"home",
 				"home_page"
 			],
@@ -22,10 +90,6 @@
 			[
 				"pro",
 				"product_pre_save_reciever"
-			],
-			[
-				"get",
-				"get_object_or_404"
 			],
 			[
 				"obect",
@@ -51,16 +115,64 @@
 			"file": "src/ecommerce/views.py",
 			"settings":
 			{
-				"buffer_size": 124,
+				"buffer_size": 3621,
 				"line_ending": "Windows",
 				"name": "from django.http import HttpResponse"
+			}
+		},
+		{
+			"file": "src/templates/auth/register.html",
+			"settings":
+			{
+				"buffer_size": 121,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/templates/auth/login.html",
+			"settings":
+			{
+				"buffer_size": 121,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/ecommerce/forms.py",
+			"settings":
+			{
+				"buffer_size": 1717,
+				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "src/ecommerce/urls.py",
 			"settings":
 			{
-				"buffer_size": 823,
+				"buffer_size": 1023,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/ecommerce/settings.py",
+			"settings":
+			{
+				"buffer_size": 3140,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/templates/home_page.html",
+			"settings":
+			{
+				"buffer_size": 1645,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/templates/contact/view.html",
+			"settings":
+			{
+				"buffer_size": 2048,
 				"line_ending": "Windows"
 			}
 		}
@@ -155,7 +267,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -163,20 +275,98 @@
 					"file": "src/ecommerce/views.py",
 					"settings":
 					{
-						"buffer_size": 124,
+						"buffer_size": 3621,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								122,
-								122
+								2158,
+								2158
 							]
 						],
 						"settings":
 						{
 							"auto_name": "from django.http import HttpResponse",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 622.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/templates/auth/register.html",
+					"settings":
+					{
+						"buffer_size": 121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121,
+								121
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/templates/auth/login.html",
+					"settings":
+					{
+						"buffer_size": 121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/ecommerce/forms.py",
+					"settings":
+					{
+						"buffer_size": 1717,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1477,
+								1477
+							]
+						],
+						"settings":
+						{
 							"syntax": "Packages/Python/Python.tmLanguage"
 						},
 						"translation.x": 0.0,
@@ -186,27 +376,109 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
+					"buffer": 4,
 					"file": "src/ecommerce/urls.py",
 					"settings":
 					{
-						"buffer_size": 823,
+						"buffer_size": 1023,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								823,
-								823
+								961,
+								953
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Python/Python.tmLanguage"
 						},
+						"translation.x": 15.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/ecommerce/settings.py",
+					"settings":
+					{
+						"buffer_size": 3140,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2038,
+								2038
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 675.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/templates/home_page.html",
+					"settings":
+					{
+						"buffer_size": 1645,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1645,
+								1645
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/templates/contact/view.html",
+					"settings":
+					{
+						"buffer_size": 2048,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								872,
+								718
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 111.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

@@ -148,15 +148,7 @@
 			"file": "src/ecommerce/urls.py",
 			"settings":
 			{
-				"buffer_size": 1023,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "src/ecommerce/settings.py",
-			"settings":
-			{
-				"buffer_size": 3140,
+				"buffer_size": 1310,
 				"line_ending": "Windows"
 			}
 		},
@@ -164,16 +156,8 @@
 			"file": "src/templates/home_page.html",
 			"settings":
 			{
-				"buffer_size": 1645,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "src/templates/contact/view.html",
-			"settings":
-			{
-				"buffer_size": 2048,
-				"line_ending": "Windows"
+				"buffer_size": 13845,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -201,6 +185,10 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/templates/home_page.html",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/static_cdn/css/main.css",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/ecommerce/settings.py",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/templates/contact/view.html",
 		"/C/Users/Ezekiel/Desktop/Hallo-Cycle/main.py",
 		"/C/Users/Ezekiel/Desktop/DEV 1.9/1.9/1.9",
 		"/C/Users/Ezekiel/Desktop/DEV 1.9/.gitattributes",
@@ -267,7 +255,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 5,
 			"sheets":
 			[
 				{
@@ -289,7 +277,8 @@
 						"settings":
 						{
 							"auto_name": "from django.http import HttpResponse",
-							"syntax": "Packages/Python/Python.tmLanguage"
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 622.0,
@@ -336,7 +325,7 @@
 						[
 							[
 								121,
-								0
+								121
 							]
 						],
 						"settings":
@@ -367,7 +356,8 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.tmLanguage"
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -380,41 +370,15 @@
 					"file": "src/ecommerce/urls.py",
 					"settings":
 					{
-						"buffer_size": 1023,
+						"buffer_size": 1310,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								961,
-								953
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage"
-						},
-						"translation.x": 15.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "src/ecommerce/settings.py",
-					"settings":
-					{
-						"buffer_size": 3140,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2038,
-								2038
+								1310,
+								1310
 							]
 						],
 						"settings":
@@ -424,61 +388,35 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 675.0,
+						"translation.y": 89.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 5,
 					"file": "src/templates/home_page.html",
 					"settings":
 					{
-						"buffer_size": 1645,
+						"buffer_size": 13845,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1645,
-								1645
+								538,
+								538
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "src/templates/contact/view.html",
-					"settings":
-					{
-						"buffer_size": 2048,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								872,
-								718
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 111.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

@@ -1,0 +1,205 @@
+[
+{
+    "model": "products.varietal",
+    "pk": 1,
+    "fields": {
+        "title": "Chardonnay",
+        "slug": "",
+        "description": "A white varietal",
+        "image": "",
+        "featured": false,
+        "active": true,
+        "catagory": "White Wine"
+    }
+},
+{
+    "model": "products.varietal",
+    "pk": 2,
+    "fields": {
+        "title": "Sauvignon Blanc",
+        "slug": "Sauvignon-Blanc",
+        "description": "A crisp refreshing white variatal",
+        "image": "",
+        "featured": false,
+        "active": true,
+        "catagory": "White Wine"
+    }
+},
+{
+    "model": "products.varietal",
+    "pk": 3,
+    "fields": {
+        "title": "Test",
+        "slug": "Test",
+        "description": "Test",
+        "image": "",
+        "featured": false,
+        "active": true,
+        "catagory": "Wine"
+    }
+},
+{
+    "model": "products.region",
+    "pk": 1,
+    "fields": {
+        "title": "Hawkes Bay",
+        "slug": "",
+        "description": "A sunny region in the lower half of the North Island",
+        "image": "",
+        "featured": false,
+        "active": true
+    }
+},
+{
+    "model": "products.region",
+    "pk": 2,
+    "fields": {
+        "title": "Malbrough",
+        "slug": "Malbrough-NZ",
+        "description": "A lush region with rich mineral soil",
+        "image": "",
+        "featured": false,
+        "active": true
+    }
+},
+{
+    "model": "products.region",
+    "pk": 3,
+    "fields": {
+        "title": "Region",
+        "slug": "Region",
+        "description": "Test",
+        "image": "",
+        "featured": false,
+        "active": true
+    }
+},
+{
+    "model": "products.region",
+    "pk": 4,
+    "fields": {
+        "title": "Central Otago",
+        "slug": "Central-Otago",
+        "description": "Lovely region in the lower half of the South Island.",
+        "image": "",
+        "featured": false,
+        "active": true
+    }
+},
+{
+    "model": "products.supplier",
+    "pk": 1,
+    "fields": {
+        "title": "Peoples",
+        "slug": "",
+        "description": "A wine seller",
+        "image": "",
+        "featured": false,
+        "active": true
+    }
+},
+{
+    "model": "products.supplier",
+    "pk": 2,
+    "fields": {
+        "title": "Test",
+        "slug": "Test",
+        "description": "Test",
+        "image": "",
+        "featured": false,
+        "active": true
+    }
+},
+{
+    "model": "products.supplier",
+    "pk": 3,
+    "fields": {
+        "title": "Kumeu River",
+        "slug": "Kumeu-River",
+        "description": "An old wine maker out of Hawkes Bay",
+        "image": "",
+        "featured": false,
+        "active": true
+    }
+},
+{
+    "model": "products.product",
+    "pk": 6,
+    "fields": {
+        "title": "Peoples Sauvignon Blanc",
+        "slug": "peoples-sauvignon-blanc",
+        "description": "A quintessential NZ Sauvignon Blanc",
+        "price": "20.00",
+        "image": "products/27013/27013",
+        "featured": false,
+        "active": true,
+        "supplier": 1,
+        "region": 2,
+        "varietal": 2
+    }
+},
+{
+    "model": "products.product",
+    "pk": 7,
+    "fields": {
+        "title": "Wine",
+        "slug": "Wine",
+        "description": "Test",
+        "price": "100.00",
+        "image": "",
+        "featured": false,
+        "active": true,
+        "supplier": 2,
+        "region": 3,
+        "varietal": 3
+    }
+},
+{
+    "model": "products.product",
+    "pk": 8,
+    "fields": {
+        "title": "Kumeu River Chardonnay",
+        "slug": "Kumeu-River-Chardonnay",
+        "description": "A brilliant Chardonnay",
+        "price": "35.00",
+        "image": "",
+        "featured": false,
+        "active": true,
+        "supplier": 3,
+        "region": 1,
+        "varietal": 1
+    }
+},
+{
+    "model": "products.product",
+    "pk": 9,
+    "fields": {
+        "title": "Romes Finest",
+        "slug": "Romes-Finest",
+        "description": "A classic",
+        "price": "25.00",
+        "image": "products/61727/61727",
+        "featured": false,
+        "active": true,
+        "supplier": 2,
+        "region": 3,
+        "varietal": 3
+    }
+},
+{
+    "model": "products.product",
+    "pk": 10,
+    "fields": {
+        "title": "Roaring Meg",
+        "slug": "roaring-meg",
+        "description": "Delicious",
+        "price": "49.99",
+        "image": "",
+        "featured": false,
+        "active": true,
+        "supplier": 2,
+        "region": 4,
+        "varietal": 3
+    }
+}
+]

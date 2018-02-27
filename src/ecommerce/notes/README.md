@@ -1,0 +1,1 @@
+4. python manage.py dumpdata product --format json --indent 4 > products/fixtures/products.json

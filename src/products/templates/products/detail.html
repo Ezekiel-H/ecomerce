@@ -3,7 +3,6 @@
 {% load static %}
 
 {% block base_head %}
-<link rel='stylesheet' href='{% static "css/custom.css" %}' >
 {% endblock %}
 
 {% block content %}
@@ -16,6 +15,23 @@
         <div class="my-3 p-3">
 			{% if object.image %}
 				<img src='{{ object.image.url }}' class='img-fluid'/>
+<!-- 
+          <!-- <div class="carousel-inner" role="listbox"> -->
+<!--             <div class="carousel-item active" style="img-fluid">
+              <img src="{ object.image.url }">
+              <div class="carousel-caption d-none d-md-block">
+              </div>
+            </div>
+            <div class="carousel-item" style="img-fluid">
+              <img src="{ object.image.url }">
+              <div class="carousel-caption d-none d-md-block">
+              </div>
+            </div>
+            <div class="carousel-item" style="img-fluid">
+              <img src="{ object.image.url }">
+            </div>
+          </div> -->
+
 			{% else %}
 				<img class="card-img-top image" src='http://placehold.it/205x246'>	
 			{% endif %}	

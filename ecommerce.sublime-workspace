@@ -4,32 +4,248 @@
 		"selected_items":
 		[
 			[
+				"Reg",
+				"RegisterForm"
+			],
+			[
+				"ac",
+				"active"
+			],
+			[
+				"Use",
+				"UserAdminCreationForm"
+			],
+			[
+				"Ue",
+				"UserAdminChangeForm"
+			],
+			[
+				"is_a",
+				"is_admin"
+			],
+			[
+				"is",
+				"is_staff"
+			],
+			[
+				"crea",
+				"create_user"
+			],
+			[
+				"a",
+				"admin"
+			],
+			[
+				"sa",
+				"staff"
+			],
+			[
+				"user",
+				"user_obj"
+			],
+			[
+				"B",
+				"BaseUserManager"
+			],
+			[
+				"au",
+				"auto_now_add"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"subm",
+				"submitSpan"
+			],
+			[
+				"su",
+				"submitSpan"
+			],
+			[
+				"add",
+				"added"
+			],
+			[
+				"err",
+				"errorData"
+			],
+			[
 				"con",
-				"contact"
+				"console"
+			],
+			[
+				"ht",
+				"httpMethod"
+			],
+			[
+				"this",
+				"thisForm"
 			],
 			[
 				"pro",
+				"productForm"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"shipp",
+				"shipping_address"
+			],
+			[
+				"bill",
+				"billing_profile_created"
+			],
+			[
+				"shi",
+				"shipping_address"
+			],
+			[
+				"bil",
+				"billing_profile"
+			],
+			[
+				"red",
+				"redirect"
+			],
+			[
+				"cart",
+				"cart_obj"
+			],
+			[
+				"billing",
+				"billing_profile"
+			],
+			[
+				"new_",
+				"new_or_get"
+			],
+			[
+				"order",
+				"order_obj"
+			],
+			[
+				"bl",
+				"billing_profile"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"gues",
+				"guest_form"
+			],
+			[
+				"gue",
+				"guest_email_id"
+			],
+			[
+				"regi",
+				"register"
+			],
+			[
+				"o",
+				"objects"
+			],
+			[
+				"Gues",
+				"GuestEmail"
+			],
+			[
+				"EM",
+				"EmailField"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"redi",
+				"redirect_path"
+			],
+			[
+				"next_",
+				"next_post"
+			],
+			[
+				"nex",
+				"next_post"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"orde",
+				"order_obj"
+			],
+			[
+				"car",
+				"cart_total"
+			],
+			[
+				"pos",
+				"post_save_cart_total"
+			],
+			[
+				"pre_sa",
+				"pre_save_create_order_id"
+			],
+			[
+				"random",
+				"random_string_generator"
+			],
+			[
+				"cart_",
+				"cart_obj"
+			],
+			[
+				"Pro",
+				"ProductDetailSlugView"
+			],
+			[
+				"new",
+				"new_or_get"
+			],
+			[
+				"product",
+				"product_id"
+			],
+			[
+				"prod",
 				"products"
+			],
+			[
+				"use",
+				"user_obj"
+			],
+			[
+				"ca",
+				"cart_obj"
+			],
+			[
+				"Car",
+				"CartManager"
+			],
+			[
+				"Regi",
+				"Region"
 			],
 			[
 				"uni",
 				"unique_slug_generator"
 			],
 			[
-				"product",
-				"Product"
-			],
-			[
-				"Pro",
-				"Product"
-			],
-			[
 				"q",
 				"QuerySet"
-			],
-			[
-				"re",
-				"return"
 			],
 			[
 				"Prod",
@@ -46,10 +262,6 @@
 			[
 				"get",
 				"get_context_data"
-			],
-			[
-				"user",
-				"username"
 			],
 			[
 				"pas",
@@ -74,14 +286,6 @@
 			[
 				"for",
 				"forms"
-			],
-			[
-				"use",
-				"user"
-			],
-			[
-				"is",
-				"is_authenticated"
 			],
 			[
 				"u",
@@ -140,58 +344,58 @@
 	"buffers":
 	[
 		{
-			"file": "src/templates/base.html",
+			"file": "src/accounts/models.py",
 			"settings":
 			{
-				"buffer_size": 562,
+				"buffer_size": 2041,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "src/templates/home_page.html",
+			"file": "src/ecommerce/notes/README.md",
 			"settings":
 			{
-				"buffer_size": 11170,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/templates/base/navbar.html",
-			"settings":
-			{
-				"buffer_size": 2497,
+				"buffer_size": 95,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "src/templates/base/footer.html",
+			"file": "src/ecommerce/settings.py",
 			"settings":
 			{
-				"buffer_size": 212,
+				"buffer_size": 3648,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "src/products/templates/products/list.html",
+			"file": "src/accounts/admin.py",
 			"settings":
 			{
-				"buffer_size": 404,
+				"buffer_size": 1538,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "src/templates/about_page.html",
+			"file": "src/accounts/forms.py",
 			"settings":
 			{
-				"buffer_size": 473,
-				"line_ending": "Unix"
+				"buffer_size": 4439,
+				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "src/products/templates/products/snippets/card.html",
+			"file": "src/accounts/views.py",
 			"settings":
 			{
-				"buffer_size": 834,
+				"buffer_size": 2242,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/accounts/templates/accounts/register.html",
+			"settings":
+			{
+				"buffer_size": 483,
 				"line_ending": "Windows"
 			}
 		},
@@ -199,34 +403,7 @@
 			"file": "src/ecommerce/urls.py",
 			"settings":
 			{
-				"buffer_size": 2188,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "src/ecommerce/views.py",
-			"settings":
-			{
-				"buffer_size": 3622,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "src/static_my_proj/css/modern-business.css",
-			"settings":
-			{
-				"buffer_size": 2933,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "import random\nimport os\nfrom django.db import models\nfrom django.db.models.signals import pre_save, post_save\nfrom django.urls import reverse\n\nfrom .utils import unique_slug_generator\n\n# Create your models here.\n\ndef get_filename_ext(filepath):\n	base_name = os.path.basename(filepath)\n	name, ext = os.path.splitext(base_name)\n	return name, ext\n\n\ndef upload_image_path(instance, filename):\n	new_filename = random.randint(1, 100000)\n	name, ext = get_filename_ext(filename)\n	final_filename = '{new_filename}{ext}'.format(new_filename=new_filename, ext=ext)\n	return \"products/{new_filename}/{new_filename}\".format(\n		new_filename=new_filename, \n		final_filename=final_filename\n		)\n\nclass ProductQuerySet(models.QuerySet):\n\n	def active(self):\n		return self.filter(active=True)\n\n	def featured(self):\n		return self.filter(featured=True, active=True)\n\nclass ProductManager(models.Manager):\n	def get_queryset(self):\n		return ProductQuerySet(self.model, using=self._db)\n\n	def all(self):\n		return self.get_queryset().active()\n\n	def featured(self):\n		return self.get_queryset().featured()\n\n	def get_by_id(self, id):\n		qs = self.get_queryset().filter(id=id)\n		if qs.count() == 1:\n			return qs.first()\n		return None\n\nclass Product(models.Model):\n	title			= models.CharField(max_length=120)\n	slug			= models.SlugField(blank=True, unique=True)\n	description		= models.TextField(null=True)\n	price			= models.DecimalField(decimal_places=2, max_digits=10, default=39.99)\n	image			= models.FileField(upload_to=upload_image_path, null=True, blank=True)\n	featured		= models.BooleanField(default=False)\n	active			= models.BooleanField(default=True)\n	Supplier		= models.ForeignKey()\n\n	objects = ProductManager()\n\n	def get_absolute_url(self):\n		# return \"/products/{slug}/\".format(slug=self.slug)\n		return reverse(\"products:detail\", kwargs={\"slug\": self.slug})\n\n	def __str__(self):\n		return self.title\n	#this references product rather than product type\n\n\n\nclass Supplier(models.Model):\n	title			= models.CharField(max_length=120)\n	slug			= models.SlugField(blank=True, unique=True)\n	description		= models.TextField(null=True)\n	image			= models.FileField(upload_to=upload_image_path, null=True, blank=True)\n	featured		= models.BooleanField(default=False)\n	active			= models.BooleanField(default=True)\n\n\n	objects = ProductManager()\n\n	def get_absolute_url(self):\n		# return \"/products/{slug}/\".format(slug=self.slug)\n		return reverse(\"products:detail\", kwargs={\"slug\": self.slug})\n\n	def __str__(self):\n		return self.title\n	#this references product rather than product type\n\n\ndef product_pre_save_reciever(sender, instance, *args, **kwargs):\n	if not instance.slug:\n		instance.slug = unique_slug_generator(instance)\n\npre_save.connect(product_pre_save_reciever, sender=Product)",
-			"file": "src/products/models.py",
-			"file_size": 2168,
-			"file_write_time": 131604960970630046,
-			"settings":
-			{
-				"buffer_size": 2745,
+				"buffer_size": 2265,
 				"line_ending": "Windows"
 			}
 		}
@@ -255,29 +432,86 @@
 	},
 	"file_history":
 	[
-		"/C/Users/Ezekiel/Desktop/DEV 1.9/1.9/Project19/templates/base.html",
-		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/static_my_proj/css/modern-business.css",
-		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/templates/base/css.html",
-		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/templates/base/js.html",
-		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/ecommerce/settings.py",
-		"/C/Users/Ezekiel/Desktop/Projects/NZWine/static_my_cdn/static_root/css/modern-business.css",
-		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/templates/contact/view.html",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/products/fixtures/products.json",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/products/templates/products/detail.html",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/accounts/templates/accounts/login.html",
 		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/products/templates/products/snippets/card.html",
-		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/products/templates/products/list.html",
-		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/products/urls.py",
-		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/products/models.py",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/static_my_proj/css/main.css",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/templates/404.html",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/templates/base/navbar.html",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/static_my_proj/js/csrf.ajax.js",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/static_my_proj/js/ecommerce.js",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/carts/views.py",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/ecommerce/views.py",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/templates/contact/view.html",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/templates/base.html",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/templates/base/js.html",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/products/templates/products/snippets/update-cart.html",
+		"/C/Users/Ezekiel/Downloads/bootstrap-4.0.0/docs/4.0/examples/sign-in/index.html",
+		"/C/Users/Ezekiel/Downloads/bootstrap-4.0.0/docs/4.0/examples/sign-in/signin.css",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/carts/templates/carts/home.html",
 		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/ecommerce/urls.py",
-		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/products/tests.py",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/products/views.py",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/search/templates/search/snippets/search-form.html",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/templates/base/css.html",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/ecommerce/forms.py",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/carts/templates/carts/snippets/remove-product.html",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/carts/urls.py",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/addresses/models.py",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/addresses/templates/addresses/prev_addresses.html",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/JQuery_src/index.html",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/carts/templates/carts/checkout.html",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/carts/templates/carts/checkout-done.html",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/carts/models.py",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/addresses/views.py",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/orders/models.py",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/addresses/templates/addresses/forms.html",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/addresses/admin.py",
+		"/C/Users/Ezekiel/Downloads/bootstrap-4.0.0/docs/4.0/examples/checkout/index.html",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/addresses/forms.py",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/billing/models.py",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/ecommerce/settings.py",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/orders/admin.py",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/accounts/views.py",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/accounts/templates/accounts/snippets/form.html",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/billing/admin.py",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/accounts/admin.py",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/accounts/models.py",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/accounts/forms.py",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/accounts/templates/accounts/register.html",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/accounts/templates/snippets/form.html",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/accounts/snippets/form.html",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/static_my_cdn/static_root/css/main.css",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/tags/models.py",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/products/models.py",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/ecommerce/utils.py",
 		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/products/utils.py",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/templates/base/footer.html",
+		"/C/Users/Ezekiel/Downloads/bootstrap-4.0.0/docs/4.0/examples/navbars/index.html",
+		"/C/Users/Ezekiel/Downloads/bootstrap-4.0.0/docs/4.0/examples/dashboard/index.html",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/carts/admin.py",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/products/templates/products/snippets/add-to-cart.html",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/search/templates/search/view.html",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/search/views.py",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/search/urls.py",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/products/templates/products/list.html",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/static_my_proj/css/modern-business.css",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/tags/admin.py",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/search/snippets/search-form.html",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/templates/home_page.html",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/products/templates/products/featured-detail.html",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/templates/about_page.html",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/products/admin.py",
+		"/C/Users/Ezekiel/Desktop/R/ezekiel.nz/public/index/index.html",
+		"/C/Users/Ezekiel/Downloads/bootstrap-4.0.0/docs/4.0/examples/product/index.html",
+		"/C/Users/Ezekiel/Desktop/R/ezekiel.nz/index.Rmd",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/products/migrations/0011_auto_20180119_1640.py",
+		"/C/Users/Ezekiel/Desktop/DEV 1.9/1.9/Project19/templates/base.html",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/static_my_cdn/static_root/css/modern-business.css",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/products/urls.py",
+		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/products/tests.py",
 		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/products/snippets/card.html",
 		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/templates/js.html",
-		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/products/templates/products/featured-detail.html",
-		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/products/templates/products/detail.html",
-		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/products/views.py",
-		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/products/admin.py",
-		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/ecommerce/views.py",
-		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/templates/home_page.html",
-		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/ecommerce/forms.py",
 		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/templates/auth/login.html",
 		"/C/Users/Ezekiel/Desktop/Projects/NZWine/src/templates/auth/register.html",
 		"/C/Users/Ezekiel/Desktop/Projects/NZWine/static_cdn/css/main.css",
@@ -310,11 +544,11 @@
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 102.0,
 		"where_history":
 		[
 		]
@@ -324,6 +558,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"email",
+			"cartBo",
+			">\n",
+			"            \n",
+			"paddi",
+			"padd",
+			"min",
+			"navba",
 			"drop",
 			"dropdown",
 			"resumes",
@@ -349,30 +591,29 @@
 	"groups":
 	[
 		{
-			"selected": 10,
+			"selected": 7,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "src/templates/base.html",
+					"file": "src/accounts/models.py",
 					"settings":
 					{
-						"buffer_size": 562,
+						"buffer_size": 2041,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								561,
-								561
+								254,
+								254
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -382,53 +623,23 @@
 				},
 				{
 					"buffer": 1,
-					"file": "src/templates/home_page.html",
+					"file": "src/ecommerce/notes/README.md",
 					"settings":
 					{
-						"buffer_size": 11170,
+						"buffer_size": 95,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5225,
-								5225
+								95,
+								95
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2376.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "src/templates/base/navbar.html",
-					"settings":
-					{
-						"buffer_size": 2497,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2487,
-								2487
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -437,24 +648,52 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "src/templates/base/footer.html",
+					"buffer": 2,
+					"file": "src/ecommerce/settings.py",
 					"settings":
 					{
-						"buffer_size": 212,
+						"buffer_size": 3648,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								72,
-								72
+								1208,
+								1208
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1317.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/accounts/admin.py",
+					"settings":
+					{
+						"buffer_size": 1538,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								673,
+								673
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -464,51 +703,51 @@
 				},
 				{
 					"buffer": 4,
-					"file": "src/products/templates/products/list.html",
+					"file": "src/accounts/forms.py",
 					"settings":
 					{
-						"buffer_size": 404,
+						"buffer_size": 4439,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								123,
-								123
+								2412,
+								2412
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1189.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 5,
-					"file": "src/templates/about_page.html",
+					"file": "src/accounts/views.py",
 					"settings":
 					{
-						"buffer_size": 473,
+						"buffer_size": 2242,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								25,
-								25
+								1951,
+								1951
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -518,24 +757,23 @@
 				},
 				{
 					"buffer": 6,
-					"file": "src/products/templates/products/snippets/card.html",
+					"file": "src/accounts/templates/accounts/register.html",
 					"settings":
 					{
-						"buffer_size": 834,
+						"buffer_size": 483,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								490,
-								490
+								259,
+								259
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -548,15 +786,15 @@
 					"file": "src/ecommerce/urls.py",
 					"settings":
 					{
-						"buffer_size": 2188,
+						"buffer_size": 2265,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1857,
+								1857
 							]
 						],
 						"settings":
@@ -566,89 +804,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 186.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "src/ecommerce/views.py",
-					"settings":
-					{
-						"buffer_size": 3622,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								577,
-								577
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 114.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "src/static_my_proj/css/modern-business.css",
-					"settings":
-					{
-						"buffer_size": 2933,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2933,
-								2933
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1881.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "src/products/models.py",
-					"settings":
-					{
-						"buffer_size": 2745,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1103,
-								1077
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 560.0,
+						"translation.y": 295.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -689,7 +845,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 220.0
+		"height": 29.0
 	},
 	"replace":
 	{
@@ -720,6 +876,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 224.0,
+	"side_bar_width": 154.0,
 	"status_bar_visible": true
 }

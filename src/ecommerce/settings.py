@@ -38,15 +38,22 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
+
 # our apps here
     'accounts',
+    'addresses',
+    'billing',
     'carts',
+    'crispy_forms',
     'orders',
     'products',
     'search',
     'tags',   
 
 ]
+
+
+AUTH_USER_MODEL = 'accounts.User' #change of the built in user model to User.
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
